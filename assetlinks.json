@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "v.storage",
+    "sha256_cert_fingerprints":
+    ["56:2C:F8:99:7E:AF:DB:FF:49:09:C0:50:1C:C7:0F:DD:3A:DD:41:4C:25:97:78:06:61:9D:33:8A:B4:49:3E:90"]
+  }
+}]
